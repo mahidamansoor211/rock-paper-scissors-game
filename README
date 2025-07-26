@@ -1,0 +1,30 @@
+# ✊✋✌️ Rock Paper Scissors Game
+
+A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer, track your score, and enjoy an interactive UI with emoji buttons!
+
+---
+
+## 🎮 Live Demo
+
+🔗 [Click here to play the game](https://mahidamansoor211.github.io/rock-paper-scissors-game/)
+
+---
+
+## 🛠️ Technologies Used
+
+1. **HTML5**
+2. **CSS3**
+3. **JavaScript (Vanilla JS)**
+
+---
+
+## 🧩 Features
+
+- ✅ Rock, Paper, Scissors selection using emoji buttons
+- ✅ Computer move is randomly generated
+- ✅ Result displayed: Win / Lose / Tie
+- ✅ Score tracking using `localStorage`
+- ✅ Reset score button
+- ✅ Responsive and clean layout
+
+---
